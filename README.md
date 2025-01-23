@@ -37,7 +37,7 @@ This repository contains the MATLAB implementation for a **Joint Radar and Commu
 - Communications System Toolbox
 
 ## 📚 Project Report
-For detailed information, please look at the project report under the "Project Report" folder. 
+For detailed information, please look at the project report under the "Project Report" folder
 
 ## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
